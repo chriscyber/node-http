@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/christineanthony/.nvm/versions/node/v14.17.5/bin/node /usr/local/bin/yarn global bin
+
+PATH: 
+  /Users/christineanthony/.nvm/versions/node/v14.17.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin::
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.5
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/christineanthony/Desktop/NucampFolder/5-NodeJS-Express-MongoDB/node-http/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
